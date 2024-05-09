@@ -24,8 +24,8 @@ Poderá visualizar nesse <a href="" target="_blank">Link</a>
 
 # Mobile
 
-<img src="images-readme/Mobile.png" alt="Tela da estilização Mobile" height="700px">
-<img src="images-readme/Mobile2.png" alt="Tela da estilização Mobile" height="700px" >
+<img src="images-readme/Mobile.png" alt="Tela da estilização Mobile" width="20%" >
+<img src="images-readme/Mobile2.png" alt="Tela da estilização Mobile" width="50%" >
 <br></br>
 <br></br>
 
