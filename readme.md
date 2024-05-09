@@ -2,7 +2,7 @@
 
 # Testimonials Grid Section
 
-Esse challenge do Front-End Mentor é voltado para o treinamento de ferramentas CSS, como Display Flex e Display Grid.
+Esse challenge do Front-End Mentor é voltado para o treinamento de Tecnologias como *HTML* e *CSS*, utilizando Display Flex e Display Grid.
 
 Foi utilizado o conceito de Mobile First, onde foi realizado primeiramente a estilização da página para dispositivos Mobile, após isso é realizado a estilização para dispositivos Desktop, utilizando Media Query.
 
