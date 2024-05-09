@@ -6,7 +6,7 @@ Esse challenge do Front-End Mentor é voltado para o treinamento de ferramentas 
 
 Foi utilizado o conceito de Mobile First, onde foi realizado primeiramente a estilização da página para dispositivos Mobile, após isso é realizado a estilização para dispositivos Desktop, utilizando Media Query.
 
-Poderá visualizar nesse <a href="" target="_blank">Link</a>
+Poderá visualizar nesse <a href="https://thejrodrigues.github.io/Testimonials-Grid-Section-Challenge/" target="_blank" alt="Link do Site">Link</a>
 
 # Display Flex
 
