@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  font-family: "Barlow Semi Condensed";
+}
+body {
+  background-color: hsl(210, 46%, 95%);
+}
+
+.container {
+  padding: 30px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.box {
+  padding: 2rem;
+  width: 300px;
+  border-radius: 15px;
+  box-shadow: 12px 14px 29px -6px rgba(110, 110, 110, 1);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: white;
+  font-size: 8px;
+  margin-bottom: 20px;
+}
+
+.avatar {
+  width: 2rem;
+  border-radius: 50%;
+  border-style: double;
+  border-color: black;
+}
+
+.text {
+  font-size: 10px;
+  color: white;
+}
+
+.text h1 {
+  margin-bottom: 20px;
+}
+
+.box:nth-child(1) {
+  background-image: url(../images/bg-pattern-quotation.svg);
+  background-repeat: no-repeat;
+  background-size: 90px 100px;
+  background-position: 90% 0%;
+  background-color: hsl(263, 55%, 52%);
+}
+.box:nth-child(2) {
+  background-color: hsl(217, 19%, 35%);
+}
+.box:nth-child(3) {
+  background-color: hsl(0, 0%, 100%);
+}
+.box:nth-child(3) .header,
+.box:nth-child(3) .text {
+  color: black;
+}
+
+.box:nth-child(4) {
+  background-color: hsl(219, 29%, 14%);
+}
+
+.box:nth-child(5) {
+  background-color: hsl(0, 0%, 100%);
+}
+.box:nth-child(5) .header,
+.box:nth-child(5) .text {
+  color: black;
+}
